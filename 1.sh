@@ -1,4 +1,5 @@
 cd /root/l
+echo "$(pwd)"
 sh autogen.sh
 ./configure
 make
