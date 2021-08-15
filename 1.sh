@@ -1,4 +1,4 @@
-cd l
+cd /root/l
 sh autogen.sh
 ./configure
 make
